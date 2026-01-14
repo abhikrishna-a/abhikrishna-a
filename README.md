@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
+  <img src="https://images.scalebranding.com/b4a37b2f-073f-451b-b49f-d34b866d08e9.png" width="60"><br>
   <b>Always learning. Always building. 🚀</b>
 </p>
 
