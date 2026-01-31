@@ -61,15 +61,14 @@
   </a>
 </p>
 
----
 
 ## 📊 LeetCode Stats
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/abhi9037/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/abhikrishna-a?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="50%"/>
   </a>
-</p>
+</p> -->
 
 ---
 
