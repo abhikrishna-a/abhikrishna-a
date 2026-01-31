@@ -56,7 +56,7 @@
   <!-- <a href="https://github.com/abhikrishna-a" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a> -->
-  <a href="https://leetcode.com/u/abhikrishna-a/" target="_blank">
+  <a href="https://leetcode.com/u/abhi9037/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
@@ -66,7 +66,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/abhikrishna-a/" target="_blank">
+  <a href="https://leetcode.com/u/abhi9037/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/abhikrishna-a?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="50%"/>
   </a>
 </p>
