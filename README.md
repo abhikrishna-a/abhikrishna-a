@@ -108,7 +108,7 @@
 > ![Tailwind](https://img.shields.io/badge/Tailwind-339933?style=flat-square&logo=nodedotjs&logoColor=black)
 
 
-### 🎓 **Student Management System**
+### 🎓 **EduSphere**
 > Web app for managing student records, enrollment & tracking
 > 
 > 🔗 [Live Demo](https://student-management-eight-rho.vercel.app/)
