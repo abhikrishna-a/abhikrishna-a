@@ -68,6 +68,8 @@
 ### 🌐 **Portfolio Website**
 > Modern portfolio with animations & responsive design
 >
+>  🔗 [Live Demo](https://abhikrishna-portfolio.vercel.app/)
+>
 > ![HTML](https://img.shields.io/badge/HTML-61DAFB?style=flat-square&logo=react&logoColor=black)
 > ![CSS](https://img.shields.io/badge/CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black)
 > ![JS](https://img.shields.io/badge/JS-88CE02?style=flat-square&logo=greensock&logoColor=black)
@@ -78,6 +80,27 @@
 > ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 > ![Tailwind](https://img.shields.io/badge/Tailwind-339933?style=flat-square&logo=nodedotjs&logoColor=black)
 
+
+### 🎓 **Student Management System**
+> Web app for managing student records, enrollment & tracking
+> 
+> 🔗 [Live Demo](https://student-management-eight-rho.vercel.app/)
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black)
+
+### 👻 **GhostCode**
+> AI-powered dead code detector — two-phase static + LLM analysis across your entire codebase
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+> ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 
 
