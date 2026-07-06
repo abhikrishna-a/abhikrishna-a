@@ -31,16 +31,46 @@
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Tech Stack
-
-### 🔧 **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,python&theme=dark&perline=7" />
-</p>
-
-### 🛠 **Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark&perline=6" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><sub><b>🎨 FRONTEND</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br><sub>HTML5</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br><sub>CSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48"/><br><sub>Bootstrap</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48"/><br><sub>Redux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br><sub>Tailwind</sub></td>
+  </tr>
+  <tr><td colspan="7">&nbsp;</td></tr>
+  <tr>
+    <td align="center" colspan="7"><sub><b>⚙️ BACKEND & DATA</b></sub></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48"/><br><sub>Django</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br><sub>SQL</sub></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="52"/><br><sub>REST API</sub></td>
+    <td></td>
+  </tr>
+  <tr><td colspan="7">&nbsp;</td></tr>
+  <tr>
+    <td align="center" colspan="7"><sub><b>🛠 TOOLS & DEVOPS</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48"/><br><sub>Vite</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48"/><br><sub>NPM</sub></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="52"/><br><sub>Prettier</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br><sub>AWS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48"/><br><sub>Vercel</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -53,9 +83,6 @@
   <a href="mailto:abhikrishna616@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-  <!-- <a href="https://github.com/abhikrishna-a" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a> -->
   <a href="https://leetcode.com/u/abhi9037/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
