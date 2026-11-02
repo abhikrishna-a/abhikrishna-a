@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/abhikrishna22/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abhikrishna616@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhikrishna616@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/abhi9037/" target="_blank">
@@ -95,10 +95,24 @@
 
 ## 📌 Featured Projects
 
+### 🏢 **Skyrict – AI-Native ERP Platform**
+> Multi-tenant ERP built as separate core, identity and AI-agent services, with PostgreSQL Row-Level Security for tenant isolation. I own the HR & Payroll module end to end, including a payroll automation engine and AI features such as attrition-risk models and RAG-based search.
+>
+> 🔗 [Live](https://skyrict.in/)
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
 ### 🌐 **Portfolio Website**
 > Modern portfolio with animations & responsive design
 >
-> 🔗 [Live Demo](https://abhikrishna-portfolio.vercel.app/)
+> 🔗 [Live ](https://abhikrishna-portfolio.vercel.app/)
 >
 > ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -113,7 +127,7 @@
 ### 🎓 **EduSphere**
 > Web app for managing student records, enrollment & tracking
 >
-> 🔗 [Live Demo](https://student-management-eight-rho.vercel.app/)
+> 🔗 [Live ](https://student-management-eight-rho.vercel.app/)
 >
 > ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 > ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -122,7 +136,7 @@
 ### 👻 **GhostCode**
 > AI-powered dead code detector — two-phase static + LLM analysis across your entire codebase
 >
-> 🔗 [Live Demo](https://ghostcode-ai.vercel.app/)
+> 🔗 [Live ](https://ghostcode-ai.vercel.app/)
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
